@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'DjanVer.wsgi.application'
+WSGI_APPLICATION = 'DjanVer.wsgi.app'
 
 REST_FRAMEWORK = {
     'DEFAULT_RENDERER_CLASSES': [
